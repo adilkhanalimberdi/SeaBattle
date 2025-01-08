@@ -29,10 +29,10 @@ public class GameBoard extends Supporter {
         threeDeckShips();
 
         // Double-decker ships
-        // doubleDeckShips();
+        doubleDeckShips();
 
         // Single-decker ships
-        // singleDeckShips();
+        singleDeckShips();
 
         System.out.println("Alright!\n");
     }
